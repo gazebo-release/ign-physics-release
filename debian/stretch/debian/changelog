@@ -1,5 +1,5 @@
-ignition-physics (0.1.0~pre1-1~stretch) stretch; urgency=medium
+ignition-physics (1.0.0~pre1-1~stretch) stretch; urgency=medium
 
-  * ignition-physics 0.1.0~pre1-1 release
+  * ignition-physics 1.0.0~pre1-1 release
 
- -- Nate Koenig <nate@osrfoundation.org>  Fri, 07 Sep 2018 12:33:27 -0700
+ -- Nate Koenig <nate@osrfoundation.org>  Mon, 24 Sep 2018 21:15:40 -0700
