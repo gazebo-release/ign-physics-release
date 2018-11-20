@@ -1,3 +1,9 @@
+ignition-physics (1.0.0~pre2~bionic) bionic; urgency=medium
+
+  * ignition-physics 1.0.0~pre2 release
+
+ -- Addizu Z. Taddese <addisu@osrfoundation.org>  Tue, 20 Nov 2018 11:09:15 -0600
+
 ignition-physics (1.0.0~pre1-1~bionic) bionic; urgency=medium
 
   * ignition-physics 1.0.0~pre1-1 release
