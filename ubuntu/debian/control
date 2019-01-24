@@ -13,6 +13,7 @@ Build-Depends: cmake,
                libignition-plugin-dev,
                libdart6-dev,
                libdart6-collision-bullet-dev,
+               libdart6-utils-urdf-dev,
                libsdformat8-dev
 Vcs-Browser: https://bitbucket.org/ignitionrobotics/ign-physics-release
 Vcs-Hg: https://bitbucket.org/ignitionrobotics/ign-physics-release
@@ -38,6 +39,7 @@ Depends: libignition-cmake2-dev,
          libignition-plugin-dev,
          libdart6-dev,
          libdart6-collision-bullet-dev,
+         libdart6-utils-urdf-dev,
          libsdformat8-dev,
          libignition-physics (= ${binary:Version}),
          ${misc:Depends}
