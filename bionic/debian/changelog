@@ -1,3 +1,9 @@
+ignition-physics (1.0.0~pre4-2~bionic) bionic; urgency=medium
+
+  * ignition-physics 1.0.0~pre4-2 release
+
+ -- Jose Luis Rivero <jrivero@osrfoundation.org>  Thu, 24 Jan 2019 20:49:13 +0100
+
 ignition-physics (1.0.0~pre4-1~bionic) bionic; urgency=medium
 
   * ignition-physics 1.0.0~pre4-1 release
