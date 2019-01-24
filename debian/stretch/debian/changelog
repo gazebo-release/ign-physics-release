@@ -1,3 +1,9 @@
+ignition-physics (1.0.0~pre4-4~stretch) stretch; urgency=medium
+
+  * ignition-physics 1.0.0~pre4-4 release
+
+ -- Steve Peters <scpeters@osrfoundation.org>  Thu, 24 Jan 2019 13:36:15 -0800
+
 ignition-physics (1.0.0~pre4-3~stretch) stretch; urgency=medium
 
   * ignition-physics 1.0.0~pre4-3 release
