@@ -1,3 +1,9 @@
+ignition-physics (1.0.0~pre5-1~bionic) bionic; urgency=medium
+
+  * ignition-physics 1.0.0~pre5-1 release
+
+ -- Addisu Taddese <addisu@openrobotics.org>  Fri, 01 Feb 2019 17:06:08 -0600
+
 ignition-physics (1.0.0~pre4-4~bionic) bionic; urgency=medium
 
   * ignition-physics 1.0.0~pre4-4 release
