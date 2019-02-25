@@ -28,6 +28,40 @@ Multi-Arch: same
 Description: Ignition Physics classes and functions for robot apps - Shared library
   Ignition Physics is a component in the ignition framework, a set of libraries
   designed to rapidly develop robot applications.
+  .
+  Main shared library
+
+Package: libignition-physics-dartsim-dev
+Architecture: any
+Section: libdevel
+Depends: libignition-cmake2-dev,
+         libignition-common3-dev,
+         libignition-math6-dev,
+         libignition-math6-eigen3-dev,
+         libignition-plugin-dev,
+         libdart6-dev,
+         libdart6-collision-bullet-dev,
+         libdart6-utils-urdf-dev,
+         libsdformat8-dev,
+         libignition-physics (= ${binary:Version}),
+         ${misc:Depends}
+Multi-Arch: same
+Description: Ignition Physics classes and functions for robot apps - Development files
+  Ignition Physics is a component in the ignition framework, a set of libraries
+  designed to rapidly develop robot applications.
+  .
+  Dartsim development files
+
+Package: libignition-physics
+Architecture: any
+Section: libs
+Pre-Depends: ${misc:Pre-Depends}
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Multi-Arch: same
+Description: Ignition Physics classes and functions for robot apps - Shared library
+  Ignition Physics is a component in the ignition framework, a set of libraries
+  designed to rapidly develop robot applications.
+
 
 Package: libignition-physics-dev
 Architecture: any
