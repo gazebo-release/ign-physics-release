@@ -82,6 +82,8 @@ Package: libignition-physics-dartsim-dev
 Architecture: any
 Section: libdevel
 Depends: libignition-physics-core-dev,
+         libignition-physics-sdf-dev,
+         libignition-physics-mesh-dev,
          libignition-cmake2-dev,
          libignition-math6-dev,
          libignition-math6-eigen3-dev,
