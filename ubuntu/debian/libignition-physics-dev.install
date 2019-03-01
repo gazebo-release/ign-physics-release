@@ -1,4 +1,1 @@
-usr/include/*
-usr/lib/*/*.so
-usr/lib/*/pkgconfig/*.pc
-usr/lib/*/cmake/ignition-physics*/*
+usr/lib/*/cmake/ignition-physics[0-99]-all/ignition-physics[0-99]-all*

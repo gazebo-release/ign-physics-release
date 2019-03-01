@@ -1,1 +1,1 @@
-usr/lib/*/*.so.*
+usr/lib/*/libignition-physics[0-99].so.*
