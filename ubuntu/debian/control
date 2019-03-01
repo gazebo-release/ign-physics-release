@@ -90,7 +90,7 @@ Depends: libignition-physics-core-dev,
          libdart6-collision-ode-dev,
          libdart6-utils-urdf-dev,
          libsdformat8-dev,
-         libignition-physics (= ${binary:Version}),
+         libignition-physics-dartsim (= ${binary:Version}),
          ${misc:Depends}
 Multi-Arch: same
 Description: Ignition Physics classes and functions for robot apps - Development files
@@ -98,6 +98,18 @@ Description: Ignition Physics classes and functions for robot apps - Development
   designed to rapidly develop robot applications.
   .
   Dartsim component, development files
+
+Package: libignition-physics-dartsim
+Architecture: any
+Section: libs
+Pre-Depends: ${misc:Pre-Depends}
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Multi-Arch: same
+Description: Ignition Physics classes and functions for robot apps - Dartsim library
+  Ignition Physics is a component in the ignition framework, a set of libraries
+  designed to rapidly develop robot applications.
+  .
+  DARTSim component shared library
 
 Package: libignition-physics-dev
 Architecture: any
