@@ -1,3 +1,21 @@
+ignition-physics (1.1.0~pre2-1~sid) sid; urgency=medium
+
+  * ignition-physics 1.1.0~pre2-1 release
+
+ -- Steve Peters <scpeters@osrfoundation.org>  Tue, 09 Apr 2019 11:12:49 -0700
+
+ignition-physics (1.1.0~pre1-1~sid) sid; urgency=medium
+
+  * ignition-physics 1.1.0~pre1-1 release
+
+ -- Steve Peters <scpeters@osrfoundation.org>  Thu, 21 Mar 2019 15:17:20 -0700
+
+ignition-physics (1.0.1-1~sid) sid; urgency=medium
+
+  * ignition-physics 1.0.1-1 release
+
+ -- Steve Peters <scpeters@osrfoundation.org>  Tue, 05 Mar 2019 13:10:07 -0800
+
 ignition-physics (1.0.0-1~sid) sid; urgency=medium
 
   * ignition-physics 1.0.0-1 release
