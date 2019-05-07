@@ -1,3 +1,9 @@
+ignition-physics (1.1.0~pre3-1~bionic) bionic; urgency=medium
+
+  * ignition-physics 1.1.0~pre3-1 release
+
+ -- Steve Peters <scpeters@osrfoundation.org>  Tue, 07 May 2019 10:24:00 -0700
+
 ignition-physics (1.1.0~pre2-1~bionic) bionic; urgency=medium
 
   * ignition-physics 1.1.0~pre2-1 release
