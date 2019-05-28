@@ -1,3 +1,9 @@
+ignition-physics (1.2.0~pre1-1~stretch) stretch; urgency=medium
+
+  * ignition-physics 1.2.0~pre1-1 release
+
+ -- Jose Luis Rivero <jrivero@osrfoundation.org>  Wed, 29 May 2019 00:14:06 +0200
+
 ignition-physics (1.1.0-1~stretch) stretch; urgency=medium
 
   * ignition-physics 1.1.0-1 release
