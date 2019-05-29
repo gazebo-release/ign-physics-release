@@ -91,6 +91,12 @@ Depends: libignition-physics-core-dev,
          libdart6-dev (>> 6.9.0),
          libdart6-collision-ode-dev (>> 6.9.0),
          libdart6-utils-urdf-dev (>> 6.9.0),
+# following dart dependencies are not direct dependencies
+# added here to force upgrade from 6.7.2
+         libdart6-utils-dev (>> 6.9.0),
+         libdart6-external-odelcpsolver-dev (>> 6.9.0),
+         libdart6-external-ikfast-dev (>> 6.9.0),
+         libdart6-collision-bullet-dev (>> 6.9.0),
          libsdformat8-dev,
          libignition-physics-dartsim (= ${binary:Version}),
          ${misc:Depends}
