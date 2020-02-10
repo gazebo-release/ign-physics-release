@@ -1,3 +1,9 @@
+ignition-physics (1.5.0-1~stretch) stretch; urgency=medium
+
+  * ignition-physics 1.5.0-1 release
+
+ -- Addizu Z. Taddese <addisu@openrobotics.org>  Mon, 10 Feb 2020 10:17:34 -0600
+
 ignition-physics (1.5.0~pre1-1~stretch) stretch; urgency=medium
 
   * ignition-physics 1.5.0~pre1-1 release
