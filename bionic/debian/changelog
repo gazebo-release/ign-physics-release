@@ -1,3 +1,9 @@
+ignition-physics (1.6.0-1~bionic) bionic; urgency=medium
+
+  * ignition-physics 1.6.0-1 release
+
+ -- Ian Chen <ichen@osrfoundation.org>  Wed, 18 Mar 2020 11:30:32 -0700
+
 ignition-physics (1.5.0-1~bionic) bionic; urgency=medium
 
   * ignition-physics 1.5.0-1 release
