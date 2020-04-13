@@ -1,3 +1,9 @@
+ignition-physics (1.7.0-1~stretch) stretch; urgency=medium
+
+  * ignition-physics 1.7.0-1 release
+
+ -- Louise Poubel <louise@openrobotics.org>  Mon, 13 Apr 2020 13:32:32 -0700
+
 ignition-physics (1.6.0-1~stretch) stretch; urgency=medium
 
   * ignition-physics 1.6.0-1 release
