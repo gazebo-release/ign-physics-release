@@ -1,3 +1,9 @@
+ignition-physics (1.9.0-1~bionic) bionic; urgency=medium
+
+  * ignition-physics 1.9.0-1 release
+
+ -- Nate Koenig <nate@osrfoundation.org>  Wed, 16 Sep 2020 21:22:44 -0700
+
 ignition-physics (1.8.0-1~bionic) bionic; urgency=medium
 
   * ignition-physics 1.8.0-1 release
